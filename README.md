@@ -7,9 +7,10 @@
 - remove all \n formatings
 - remove all other non- alphanumeric data (excl. space)
 
-#### Text data is processed through the following
-- Remove all stopwords
+#### Text data are processed through the following
+- remove all stopwords
 - snowballstem all words
 - converted into n-gram and tfidf format
 
 ### Text classifier is done using MulitnomialNB, Linear SVC and RandomForestClassif
+- GridSearchCV to fit optimal param for tfidf, MulitnomialNB, Linear SVC and RandomForestClassif
