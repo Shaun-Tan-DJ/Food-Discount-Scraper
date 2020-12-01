@@ -1,7 +1,7 @@
 # Food-Discount-Scraper
 
-# Data are scraped from mulitple post from Facebook pages, processed and cleaned using NLTK, spaCy and basic RegEx
-# Text data (facebook post) are cleaned through the following
+Data are scraped from mulitple post from Facebook pages, processed and cleaned using NLTK, spaCy and basic RegEx
+Text data (facebook post) are cleaned through the following
 # - remove emojis
 # - remove website links
 # - remove all \n formatings
