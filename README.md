@@ -13,5 +13,5 @@
 - snowballstem all words
 - converted into n-gram and tfidf format
 
-### Text classifier is done using MulitnomialNB, Linear SVC and RandomForestClassif
+#### Text classifier is done using MulitnomialNB, Linear SVC and RandomForestClassif
 - GridSearchCV to fit optimal param for tfidf, MulitnomialNB, Linear SVC and RandomForestClassif
