@@ -11,7 +11,7 @@
 #### Text data are processed through the following
 - remove all stopwords
 - snowballstem all words
-- converted into n-gram and tfidf format
+- converted into and tfidf format
 
 #### Text classifier is done using MulitnomialNB, Linear SVC and RandomForestClassif
 - GridSearchCV to fit optimal param for tfidf, MulitnomialNB, Linear SVC and RandomForestClassif
